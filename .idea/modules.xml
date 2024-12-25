@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/kotlitaliano.iml" filepath="$PROJECT_DIR$/.idea/kotlitaliano.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlitaliano.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlitaliano.iml" />
     </modules>
   </component>
 </project>
